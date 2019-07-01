@@ -1,0 +1,8 @@
+id_rsa*
+*.tar.gz
+rke-0.1.17
+*.rkestate
+kube_config*
+.vagrant/
+*.log
+*bkp.yml
